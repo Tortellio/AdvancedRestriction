@@ -1,0 +1,8 @@
+c:\users\alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\bin\Debug\Assembly-CSharp.dll
+c:\users\alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\bin\Debug\UnityEngine.dll
+c:\users\alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\obj\Debug\VehicleCommand.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\bin\Debug\AdvancedRestriction.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\bin\Debug\AdvancedRestriction.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\obj\Debug\AdvancedRestriction.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\VehicleCommand\VehicleCommand\obj\Debug\AdvancedRestriction.pdb
