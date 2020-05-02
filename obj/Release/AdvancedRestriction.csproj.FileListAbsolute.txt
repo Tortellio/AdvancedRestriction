@@ -1,0 +1,5 @@
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AdvancedRestriction\bin\Release\AdvancedRestriction.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AdvancedRestriction\bin\Release\AdvancedRestriction.pdb
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AdvancedRestriction\obj\Release\AdvancedRestriction.csprojAssemblyReference.cache
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AdvancedRestriction\obj\Release\AdvancedRestriction.dll
+D:\PROGRAMMING\Games\Unturned\Plugins\Rocketmod\AdvancedRestriction\obj\Release\AdvancedRestriction.pdb
